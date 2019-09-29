@@ -1,11 +1,11 @@
 # StudyChess
 学习棋跟拆炸弹
 
-study international chess and japan chess with blast
-国际象棋跟日本围棋
+study international chess and japan chess with blast　</br>
+国际象棋跟日本围棋  </br>
 
-computing method
-计算方法
+computing method  </br>
+计算方法  </br>
 
             １　２　３　４　５　６　７　８　９１０　１　２　３　４　５　６　７　８　９
           Ａ｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜－｜1
@@ -58,6 +58,7 @@ computing method
             用三角定位法定位132 2222 2222 的位置则最快速度,
             用围棋的方法定位精确多了
            
+            用围棋的方法计算范围准确多了
            
        
        
